@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace AmaknaCore.Common.IO
-{
     public class BigEndianReader : IDataReader, IDisposable
     {
         #region Properties
@@ -576,4 +574,3 @@ namespace AmaknaCore.Common.IO
 
         #endregion
     }
-}

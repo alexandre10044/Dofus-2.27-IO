@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace AmaknaCore.Common.IO
-{
     public class LittleEndianWriter
     {
         #region Properties
@@ -283,4 +281,4 @@ namespace AmaknaCore.Common.IO
 
         #endregion
     }
-}
+

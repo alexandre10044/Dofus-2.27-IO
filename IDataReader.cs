@@ -5,8 +5,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AmaknaCore.Common.IO
-{
     public interface IDataReader : IDisposable
     {
         long Position
@@ -145,4 +143,4 @@ namespace AmaknaCore.Common.IO
         void Seek(int offset, SeekOrigin seekOrigin);
         void SkipBytes(int n);
     }
-}
+

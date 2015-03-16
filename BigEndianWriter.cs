@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace AmaknaCore.Common.IO
-{
     public class BigEndianWriter : IDataWriter, IDisposable
     {
         #region Properties
@@ -405,4 +403,4 @@ namespace AmaknaCore.Common.IO
 
         #endregion
     }
-}
+

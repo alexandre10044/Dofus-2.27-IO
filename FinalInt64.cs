@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AmaknaCore.Common.IO
-{
     public class FinalInt64
     {
 
@@ -41,4 +39,4 @@ namespace AmaknaCore.Common.IO
         #endregion
 
     }
-}
+
