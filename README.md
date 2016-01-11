@@ -1,4 +1,8 @@
-END OF THE SUPPORT
+
+Copyright 2015 - Cadernis.fr
+http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
+
+### END OF THE SUPPORT ###
 
 http://cadernis.fr/viewtopic.php?f=6&t=1794
 
@@ -20,9 +24,7 @@ J'aimerais ajouter que ces sources ne sont pas les seules victimes de ces bots "
 
 Bonne soirée"
 
-
-Copyright 2015 - Cadernis.fr
-http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
+__________________________________________________________________________________________________
 
 # Dofus-2.31-IO
 Dofus 2.31 IO (Based on the sources BehaviorIsManaged)
