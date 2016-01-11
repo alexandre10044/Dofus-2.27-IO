@@ -1,5 +1,5 @@
 
-Copyright 2015 - Cadernis.fr
+Copyright 2015/2016 - Cadernis.fr
 http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
 ### END OF THE SUPPORT ###
