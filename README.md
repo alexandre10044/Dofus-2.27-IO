@@ -20,7 +20,7 @@ Je ne dis pas pour autant que boter c'est mal, je dis simplement qu'il y a des m
 Voilà je pense en avoir assez dit, pour les personnes présentent depuis un certain temps sur le forum. Elles pourront me contacter afin d'avoir une mise à jour.
 Pour le reste, il est très simple de mettre à jour ces sources mais bon lorsque l'on vole du code sans même le regarder, c'est dur par la suite de le mettre à jour.
 
-J'aimerais ajouter que ces sources ne sont pas les seules victimes de ces bots "boucheries", j'ai pu décompiler certains de ces bots et y trouver du code provenant un peu partout de cadernis. Je ne penser pas qu'on pouvait avoir si peu de respect mais bon, chacun ses principes.
+J'aimerais ajouter que ces sources ne sont pas les seules victimes de ces bots "boucheries", j'ai pu décompiler certains de ces bots et y trouver du code provenant un peu partout de cadernis. Je ne pensais pas qu'on pouvait avoir si peu de respect mais bon, chacun ses principes.
 
 Bonne soirée"
 
