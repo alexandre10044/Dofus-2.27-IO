@@ -6,6 +6,10 @@ http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 
 http://cadernis.fr/viewtopic.php?f=6&t=1794
 
+Voila pour plus d'informations sur l'arrêt des IO, référez vous à ce genre de messages:
+
+http://puu.sh/mza9T/b3203a087e.jpg
+
 "Bonsoir,
 
 En vue du très mauvais comportement des bots commerciaux actuellement disponibles sur le marché, j'ai décidé d'arrêter le support de ces IO.
