@@ -18,8 +18,6 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace AmaknaCore.Common.IO
-{
     public unsafe class LittleEndianReader
     {
         private long position = 0;
@@ -194,4 +192,3 @@ namespace AmaknaCore.Common.IO
             
         }
     }
-}
