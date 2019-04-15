@@ -2,6 +2,7 @@
 using System.IO;
 using System.Text;
 
+
     /// <summary>
     /// Much faster reader that only reads memory buffer
     /// </summary>
