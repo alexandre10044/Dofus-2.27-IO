@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
+
     public class BigEndianWriter : IDataWriter, IDisposable
     {
         #region Properties
