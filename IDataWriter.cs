@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AmaknaCore.Common.IO
-{
     public interface IDataWriter
     {
         byte[] Data
@@ -129,4 +127,3 @@ namespace AmaknaCore.Common.IO
 
         void Clear();
     }
-}
