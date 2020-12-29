@@ -1,7 +1,5 @@
 
-Copyright 2015/2016 - Cadernis.fr
-http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
-
+Copyright - Cadernis.fr - http://creativecommons.org/licenses/by-nc-nd/2.0/fr/
 __________________________________________________________________________________________________
 
 # Dofus-2.31-IO
